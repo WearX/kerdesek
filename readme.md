@@ -1,6 +1,7 @@
 # Kérdések
 ## **_CSS_**
 ## Mi a css?
+## Cascade Style Sheet
 ### 
 ## Hogyan tudunk beágyazni egy css-t egy html fájlba?
 ###
